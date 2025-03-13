@@ -1,0 +1,1 @@
+# dephi_devexpress_vcl_pesian_farsi_loclale_all_tools
