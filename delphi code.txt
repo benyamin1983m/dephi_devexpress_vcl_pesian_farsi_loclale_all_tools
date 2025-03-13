@@ -1,0 +1,14 @@
+procedure langer(val: integer = 1065); // farsi
+
+begin
+
+  try
+    fm_c.locale.FileName := c:\farsi.ini';
+    fm_c.locale.Active := true;
+    fm_c.locale.locale := val
+  except
+  //  showmessage('مشکل در فراخواني تنظيمات زبان');
+  end;
+  /// /
+
+end;
